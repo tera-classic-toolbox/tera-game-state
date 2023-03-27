@@ -2,7 +2,7 @@
 	"files": {
 		"index.js": "4445d5cf989210e327f328c14f2aec3fcdbfff6b12effd7b19b57820bd0345e4",
 		"module.json": "4052cf52bfb084aaba17a3fd0abbc7ded9da93f5f1bf819c3c541c22ae06c4d0",
-		"lib/me.js": "7edf68e20fb68cfc0d6f75119980d346574f46581dfee446c0ab086d69bb1369",
+		"lib/me.js": "1baab3d21ccafd75396482a8837aaeffc7f8232a1ccf79e9dd737ef3a724d7c5",
 		"lib/contract.js": "23b979179caf0fe21b22501d166b4a393af3bbabbfa48915df1323c77142bace",
 		"lib/glyphs.js": "0c3c5e48f39fadc6ac0189712f78d2557e18eaaae967044758cd89a42bbd59d2",
 		"lib/inventory.js": "85446f663728bb26117d0fc30f95f486fc33ff50e5e4ca60158befd0b263fd89",
@@ -15,6 +15,6 @@
 		"doc/me.md": "80239e1d6d6e2afee5b0e330f476abed736e69209a77cb462fbfef227927e4e3",
 		"README.md": "d1afb5b1788c98b762ecc2cc29db922a346e29c6bc62e57769dfbc9cb6aff683",
 		"doc/party.md": "b3f2cc47d24a0965f0eeef0c09353720122738f1631a6263601f8b192c8cf2f4",
-		"lib/party.js": "ab87c1fbd14fad8e45a2e5760aac80faf9345efc545d3531e343f69d5c9720ce"
+		"lib/party.js": "fc0eb12676ba6fe1687d32d024ff265153aa562f095863fdac5550b8db250263"
 	}
 }
