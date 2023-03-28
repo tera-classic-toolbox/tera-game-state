@@ -5,7 +5,6 @@
 - Submodule `me`: [here](doc/me.md)
 - Submodule `contract`: [here](doc/contract.md)
 - Submodule `inventory`: [here](doc/inventory.md)
-- Submodule `talents`: [here](doc/talents.md)
 - Submodule `glyphs`: [here](doc/glyphs.md)
 - Submodule `party`: [here](doc/party.md)
 
