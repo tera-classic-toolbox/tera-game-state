@@ -134,7 +134,7 @@ class NetworkMod extends EventEmitter {
             this.accountName = event.name;
         });
         
-        this.installHook('S_LOGIN_ACCOUNT_INFO', 1, event => {
+        this.installHook('S_LOGIN_ACCOUNT_INFO', 2, event => {
             this.accountId = event.accountId;
         });
 
